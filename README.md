@@ -1,7 +1,7 @@
 # Moe Prvrt!
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/MoePrvrt?style=flat-square)](https://github.com/WaifuPX-DG/MoePrvrt/releases/latest)
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/MoePrvrt/main/App/Resources/banner.jpg)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/MoePrvrt/main/App/Resources/banner.png)
 
 **Go to** 
 
